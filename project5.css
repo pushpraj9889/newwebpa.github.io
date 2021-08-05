@@ -1,0 +1,50 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.main{
+	background-image: url(https://www.overseasattractions.com/wp-content/uploads/2019/03/luxury-maldives-island-resorts-couples.jpg);
+	background-repeat: none;
+	background-size: cover;
+	height: 100vh;
+}
+.new ul{
+	float:right;
+	padding:8px;
+	text-decoration:none;
+}
+.new ul li{
+	  color: white;
+     text-decoration:none;
+     list-style:none;
+     display: inline-block;
+     margin: 15px;
+
+ }
+ img{
+ 	height: 10vh;
+ 	width: 15vh;
+ 	padding-top:2px;
+ 	padding-left:2px;
+ }
+ h1{
+ 	text-align:center;
+ 	padding:250px;
+ 	color:rgb(3, 242, 52); 
+
+ }
+ #model{
+ 	height:10vh;
+ 	width: 15 vh;
+ 	float:right;
+ 	margin-bottom:50px;
+ 	margin-top:0px;
+ }
+ button{
+ 	border:1px solid red;
+ 	padding: 15px;
+ 	margin-left:60px;
+ 	margin-bottom:60px;
+ 	text-align:center;
+
+ }
